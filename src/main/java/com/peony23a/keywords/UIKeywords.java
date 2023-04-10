@@ -68,6 +68,7 @@ public class UIKeywords {
 
 	public static void CloseBrowse() {
 		driver.close();
+		System.out.println("hii dhananjay");
 		System.out.println("Browser has been closed successfully");
 	}
 }
